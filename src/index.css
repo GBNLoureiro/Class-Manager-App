@@ -1,0 +1,25 @@
+:root {
+  width: 100%;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(---color-TrueBlack);
+  background-color: var(---color-TrueWhite);
+  
+  ---color-primary: #AA5D00;
+  ---color-black: #050709;
+  ---color-white: #FEFEFD;
+  ---color-TrueBlack: #000;
+  ---color-TrueWhite: #FFF;
+  
+}
+
+
+body {
+  width: fit-content;
+  margin: 0;
+  
+}
+p {
+  margin: 0;
+}
