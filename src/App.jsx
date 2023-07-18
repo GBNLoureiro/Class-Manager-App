@@ -57,9 +57,6 @@ function App() {
   return (
             <>
               <div>{returnPage()}</div>
-              <button onClick={()=>linksPage(2)}>teste</button>
-              <button onClick={()=>linksPage(1)}>teste</button>
-              <button onClick={()=>linksPage(3)}>teste</button>
             </>
   
   ) 
